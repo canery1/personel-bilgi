@@ -1,0 +1,117 @@
+.profil-kart {
+    align-items: stretch;
+    text-align: center;
+    background-color: #ffffff;
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 30px;
+}
+.profil-resmi img {
+width: 400px;
+    height: auto;
+    overflow: hidden;
+    border-radius: 16px;
+    
+}
+.sayfa {
+    display: flex;
+    gap: 20px;
+}
+
+.sag-sutun {
+    background-color: #ffffff;
+    padding: 20px;
+    width: 830px;
+    border-radius: 16px;
+}
+
+.bolum {
+    color: #555555;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-top: 1px solid #cccccc;
+     
+}
+.oval{
+    border: 1px solid #cccccc;
+    border-radius: 12px 12px;
+    color: #555555;
+    padding: 8px;
+
+}
+.iletisim{
+    color : #555555;
+    border-top: 1px solid #cccccc;
+    text-align: left;
+    
+}
+.iletisim-detay { 
+    text-align: left;
+    margin: 20px;
+    vertical-align: middle;
+}
+.iletisim-detay img {
+    vertical-align: middle;
+    margin-right: 10px;
+    height: auto;
+
+}
+.iletisim-detay a {
+    color: #555555;
+    text-decoration: none;
+    vertical-align: middle;
+}
+.sag-sutun  {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #ffffff;
+  
+}
+.egitim-baslik{
+    color: #555555;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+.egitim-listesi{
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.egitim-listesi h4{
+    margin: 0 0 8px 0;
+    color: #222222;
+    font-size: 16px;
+    font-weight: bold;
+}
+.universite-adi{
+    margin: 0 0 12px 0;
+    color: #555555;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.tarih{
+    display: inline-block;
+    background-color: #edf2fa;
+    border: 1px solid #d3e3fd;
+    color: #1f1f1f;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 5px;
+    font-family: Arial, sans-serif;
+}
+.egitim-listeleri .egitim-listesi:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+body {
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 20px;
+}
